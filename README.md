@@ -1,4 +1,4 @@
-<!-- # Academic template
+# Academic template
 
 Simple academic template that is easy to deploy on Github page, and relatively
 easy to customize using css. Here is the [live](https://tirthankar-halder.github.io/) version.
@@ -20,5 +20,5 @@ adapted from [nickballousite](https://github.com/nballou) webpage.
 To build locally, type:
 
 ```
-hugo server -->
+hugo server 
 ```
